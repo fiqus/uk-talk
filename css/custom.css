@@ -1,0 +1,33 @@
+.reveal section img {
+    border: none !important;
+}
+
+.reveal h4 {
+    font-size: 0.7em !important;
+}
+
+.reveal ul li {
+    margin-bottom: 15px;
+}
+
+.blue {
+    color:rgb(66, 175, 250) !important;
+}
+
+img[src~="logo-image"] {
+    border: none !important;
+    background: none !important;
+    width: 400px;
+    box-shadow: none !important;
+}
+
+img[src~="mapa-image"] {
+    border: none !important;
+    background: none !important;
+    width: 250px;
+    box-shadow: none !important;
+}
+
+.reveal p {
+    margin-top: 0px;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "uk-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md slides.md -w --css css/custom.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reveal-md": "^3.0.4"
+  }
+}
