@@ -245,7 +245,7 @@ Note: Perhaps because of a strategic issue or because of a specific technology. 
 
 ## How do we manage to build a similar model globally?
 
-Note: Tech co-ops global network
+Note: Tech co-ops global network maybe?
 
 ----
 
@@ -255,7 +255,7 @@ Note: Tech co-ops global network
 
 <!-- .slide: data-background="./img/blue_screen.png" -->
 
-Note: Cómo hacemos para construir relaciones de confianza que nos ayuden a generar vínculos que hagan posibles compartir trabajos u objetivos en conjunto? .. TODO ESTE MODELO SE BASA EN LA CONFIANZA ENTRE LAS COOPES
+Note: This model is based in trusted relationships between the cooperatives involved.
 
 ---
 
