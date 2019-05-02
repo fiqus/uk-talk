@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "reveal-md slides.md -w --css css/custom.css"
+    "start": "reveal-md index.md -w --css css/custom.css"
   },
   "author": "",
   "license": "ISC",
