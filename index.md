@@ -35,7 +35,7 @@ Argentinian Federation of Technology, Innovation and Knowledge Worker Cooperativ
 
 ----
 
-![CAMBA](/img/logo_camba.png# logo-image "Cambá")
+![CAMBA](/img/logo_camba.svg# logo-camba-image "Cambá")
 
 - Located in CABA (The City of Buenos Aires)
 - 20 members

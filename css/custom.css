@@ -31,3 +31,12 @@ img[src~="mapa-image"] {
 .reveal p {
     margin-top: 0px;
 }
+
+img[src~="logo-camba-image"] {
+    border: none !important;
+    width: 400px;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+
